@@ -7,4 +7,4 @@ Mañana nos enfocaremos en su vida laboral
 git show ultimo commmit
 git branch cabecera[añadir rama]
 git checkout cabecera[cambiar]
-
+git brach[buscar ramas]
