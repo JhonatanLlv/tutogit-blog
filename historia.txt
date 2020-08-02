@@ -9,4 +9,5 @@ git show ultimo commmit
 git branch cabecera[añadir rama]
 git checkout cabecera[cambiar]
 git brach[buscar ramas]
+git merge cabecera
 
