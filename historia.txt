@@ -5,6 +5,8 @@ Freddy Vega tiene 32 años y nació en Colombia
 Mañana nos enfocaremos en su vida laboral
 
 
+Otro dev
+
 git show ultimo commmit
 git branch cabecera[añadir rama]
 git checkout cabecera[cambiar]
