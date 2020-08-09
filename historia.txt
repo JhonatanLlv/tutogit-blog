@@ -6,6 +6,8 @@ Mañana nos enfocaremos en su vida laboral
 OTRO DEV
 
 Otro developer " luchito"
+JHONATAN QUYIER CONTRIBUIR CON EL PROYECTO
+
 
 git show ultimo commmit
 git branch cabecera[añadir rama]
